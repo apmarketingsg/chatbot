@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Ryan Support Chat Demo</title>
+  <link rel="stylesheet" href="chatbot/chatbot.css" />
+  <style>
+    body { font-family: system-ui, sans-serif; max-width: 720px; margin: 40px auto; padding: 0 16px; line-height: 1.5; color: #1d2433; background: #fff; }
+    code { background: #f2f4f7; padding: 1px 5px; border-radius: 4px; }
+    table { border-collapse: collapse; width: 100%; }
+    td, th { border: 1px solid #d9dee6; padding: 6px 8px; text-align: left; }
+    @media (prefers-color-scheme: dark) {
+      body { background: #0f1217; color: #e8ebf1; }
+      code { background: #232935; }
+      td, th { border-color: #343c4b; }
+    }
+  </style>
+</head>
+<body>
+  <h1>Ryan support chat: demo page</h1>
+  <p>Click the chat button at the bottom right to start. The accounts below are sample data for testing.</p>
+  <table>
+    <tr><th>Name</th><th>Billing number</th><th>What you will see</th></tr>
+    <tr><td>Alan</td><td><code>80880888</code></td><td>Normal account, line up: home troubleshooting</td></tr>
+    <tr><td>Mei Lin</td><td><code>80880001</code></td><td>Line down from our side: ONT power and cable checks</td></tr>
+    <tr><td>Ravi</td><td><code>80880002</code></td><td>Service suspended for an unpaid bill</td></tr>
+    <tr><td>Sarah</td><td><code>80880003</code></td><td>Known outage in her area</td></tr>
+  </table>
+
+  <!-- To add Ryan to your website, copy these four lines into your pages. -->
+  <script src="chatbot/flows.js"></script>
+  <script src="chatbot/api.js"></script>
+  <script src="chatbot/chatbot.js"></script>
+</body>
+</html>
