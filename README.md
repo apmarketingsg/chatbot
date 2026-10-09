@@ -44,9 +44,9 @@ sample accounts for each scenario (normal, line down, suspended, outage).
 - **Fill in the placeholders** at the top of `flows.js`: hotline, support
   email, billing portal link and ticket response time.
 - **Connect `api.js` to a backend.** Replace the three sample functions with
-  calls to your own server. Tickets would be raised as ServiceNow incidents. The server, not the browser, should check the
+  calls to your own server. The server, not the browser, should check the
   name and billing number against the billing system, check line status and
-  outages, and send tickets to your helpdesk or support inbox.
+  outages, and raise tickets as ServiceNow incidents.
 - **Rate-limit the account check** on the server so nobody can guess billing
   numbers.
 - **Have the support team review the troubleshooting steps** to match your
