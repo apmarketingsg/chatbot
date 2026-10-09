@@ -51,10 +51,11 @@
       };
     },
 
-    /** Sends the ticket to the support team and returns its reference. */
+    /** Sends the ticket to the support team (ServiceNow in production) and returns its reference. */
     async createTicket(ticket) {
       await delay(800);
-      const id = 'TKT-' + String(Date.now()).slice(-6);
+      // ServiceNow-style incident number (INC + 7 digits). Demo only.
+      const id = 'INC' + String(Date.now()).slice(-7);
       // Demo only: keep tickets in this browser so they can be inspected.
       try {
         const saved = JSON.parse(localStorage.getItem('ryan_tickets') || '[]');

@@ -5,6 +5,11 @@ and each choice leads to a set of fixes. If the fixes don't work, Ryan raises
 a support ticket. Customers can also type, and Ryan matches keywords such as
 "slow", "wifi" or "bill" to the right topic.
 
+## Status
+
+UX prototype only. No live integrations: account data, outages and
+ServiceNow tickets are simulated in `chatbot/api.js`.
+
 ## Try it
 
 Open `index.html` in a browser and click the chat button. The demo page lists
@@ -39,7 +44,7 @@ sample accounts for each scenario (normal, line down, suspended, outage).
 - **Fill in the placeholders** at the top of `flows.js`: hotline, support
   email, billing portal link and ticket response time.
 - **Connect `api.js` to a backend.** Replace the three sample functions with
-  calls to your own server. The server, not the browser, should check the
+  calls to your own server. Tickets would be raised as ServiceNow incidents. The server, not the browser, should check the
   name and billing number against the billing system, check line status and
   outages, and send tickets to your helpdesk or support inbox.
 - **Rate-limit the account check** on the server so nobody can guess billing
