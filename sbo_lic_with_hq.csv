@@ -1,0 +1,556 @@
+﻿LIC_NO,LICENSEE_NAME,LOCAL_TEL_C1,LOCAL_TEL_C2,MVNO,ETS,IAS,IVANS,PAYPHONE,RADIO_RELAY,ALARM,TELECONF,MCA,HEADQUARTERS,HQ_CONFIDENCE
+0002,POWERTECH WORLDCOM LIMITED,N,Y,N,Y,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+0003,ZONE Limited,N,Y,N,Y,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+0011,VOXBONE NV,Y,Y,N,Y,Y,Y,N,N,N,N,N,"Belgium (Brussels); owned by Bandwidth Inc., USA",Known
+0015,HKBN Enterprise Solutions HK Limited,Y,N,N,N,N,N,N,N,N,N,N,Hong Kong (HKBN Group),Known
+0016,IPC Network Services Asia Limited,N,Y,N,Y,N,Y,N,N,N,N,N,USA (IPC Systems),Known
+0017,Hoiio (Hong Kong) Limited,N,Y,N,Y,N,Y,N,N,N,N,N,Singapore (Hoiio),Likely
+0022,China Mobile International Limited,N,Y,Y,N,Y,Y,N,N,N,N,N,"Hong Kong; parent China Mobile, Beijing",Known
+0023,CHINA UNICOM (HONG KONG) OPERATIONS LIMITED,N,Y,N,N,N,Y,N,N,N,N,N,"Hong Kong; parent China Unicom, Beijing",Known
+0024,EC TELECOM LIMITED,N,N,N,Y,Y,Y,N,N,N,Y,N,Hong Kong,Likely
+0026,ViViCall Technology Company Limited,N,Y,N,Y,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+0027,Tata Communications (Hong Kong) Limited,Y,N,N,N,Y,Y,N,N,N,Y,N,"India (Mumbai), Tata Communications",Known
+0028,ORANGE BUSINESS SERVICES HONG KONG LIMITED,Y,Y,N,N,N,Y,N,N,N,N,N,"France (Paris), Orange",Known
+0031,Mega Legend (Asia) Limited,Y,N,N,Y,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+0032,IDT Telecom Asia Pacific Limited,N,N,N,Y,N,N,N,N,N,N,N,"USA (Newark, NJ), IDT Corp",Known
+0033,TISP Limited,N,Y,N,Y,N,Y,N,N,N,Y,N,Hong Kong registered entity; parent HQ not verified,Unverified
+0034,Sino Asia Industrial Limited,N,Y,N,Y,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+0035,Singapore Telecom Hong Kong Limited,Y,N,N,Y,Y,Y,N,N,N,N,N,Singapore (Singtel),Known
+0036,BT Hong Kong Limited,Y,N,N,Y,Y,Y,N,N,N,Y,N,"UK (London), BT Group",Known
+0037,DIDWW HK Limited,N,Y,N,N,N,N,N,N,N,N,N,Ireland (DIDWW),Likely
+0038,SPEEDY GROUP CORP. LIMITED,N,Y,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+0039,"Telefonica Global Solutions, S.L.",N,Y,N,Y,Y,Y,N,N,N,N,N,"Spain (Madrid), Telefonica",Known
+0040,MICROSOFT REGIONAL SALES PTE. LTD.,Y,N,N,Y,N,Y,N,N,N,Y,N,"USA (Redmond), Microsoft; entity in Singapore",Known
+0041,WECHAT INTERNATIONAL PTE. LTD.,N,Y,N,Y,N,Y,N,N,N,N,N,"China (Shenzhen), Tencent; entity in Singapore",Known
+0042,Cainiao Smart Logistics Network (Hong Kong) Limited,N,Y,N,N,N,Y,N,N,N,N,N,"China (Hangzhou), Alibaba Group",Known
+0043,Belgacom International Carrier Services,Y,N,N,N,N,N,N,N,N,N,N,"Belgium (Brussels), BICS / Proximus",Known
+0044,Comms Choice International Hong Kong Limited,N,N,N,N,N,N,N,N,N,Y,N,Hong Kong registered entity; parent HQ not verified,Unverified
+0074,KDDI Hong Kong Limited,N,N,N,N,Y,Y,N,N,N,Y,N,"Japan (Tokyo), KDDI",Known
+0075,REFINITIV HONG KONG LIMITED,N,N,N,N,N,Y,N,N,N,N,N,"UK (London), LSEG",Known
+0094,Hong Kong Broadband Network Limited,N,N,Y,Y,Y,Y,N,N,N,N,N,Hong Kong (HKBN Group),Known
+0095,Telstra International Limited,N,N,N,Y,Y,Y,N,N,N,N,N,"Australia (Melbourne), Telstra",Known
+0110,HKNet Company Limited,N,N,N,N,Y,Y,N,N,N,N,N,"Hong Kong; parent NTT, Japan",Likely
+0116,Global Link Information Services Limited,N,N,N,N,Y,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+0128,MTR Telecommunication Company Limited,N,N,N,N,N,N,N,Y,N,N,N,Hong Kong (MTR Corporation),Known
+0133,Vision Network Limited,N,N,N,N,Y,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+0148,Tiglion Consultancy Company Limited,N,N,N,N,Y,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+0165,Internet Solutions Limited,N,N,N,N,Y,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+0173,DKSH Hong Kong Limited,N,N,N,N,N,Y,N,N,N,N,N,"Switzerland (Zurich), DKSH",Known
+0180,The Chinese University of Hong Kong,N,N,N,N,Y,N,N,N,N,N,N,Hong Kong,Known
+0214,IST Company Limited,N,N,N,N,Y,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+0226,Telecom Digital Data Limited,N,N,N,Y,Y,Y,N,N,N,N,N,Hong Kong (Telecom Digital Holdings),Likely
+0229,Resources Link Network Limited,N,N,N,N,Y,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+0230,Lumen Technologies Hong Kong Limited,N,N,N,N,Y,Y,N,N,N,N,N,"USA (Monroe, Louisiana), Lumen",Known
+0265,NOMURA RESEARCH INSTITUTE HONG KONG LIMITED,N,N,N,N,N,Y,N,N,N,N,N,"Japan (Tokyo), Nomura Research Institute",Known
+0280,NTT Com Asia Limited,N,N,N,N,Y,Y,N,N,N,N,N,"Japan (Tokyo), NTT",Known
+0305,Cyber Channel International Limited,N,N,N,Y,Y,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+0309,Infocan Computer (Hong Kong) Limited,N,N,N,N,Y,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+0312,A.J. Frontier Company Limited,N,N,N,N,Y,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+0329,New Sky Internet Limited,N,N,N,N,Y,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+0342,Now TV Limited,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong (PCCW),Known
+0352,Shinetown Telecommunication Limited,N,N,N,Y,N,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+0368,Airport Authority,N,N,Y,N,N,N,N,Y,N,N,N,Hong Kong,Known
+0373,Kowloon-Canton Railway Corporation,N,N,N,N,N,N,N,Y,N,N,N,Hong Kong,Known
+0413,Hong Kong Technology Venture Company Limited,N,N,N,Y,N,N,N,N,N,N,N,Hong Kong (HKTVmall),Known
+0418,SmarTone Mobile Communications Limited,N,N,N,Y,Y,Y,N,N,N,N,N,Hong Kong; parent Sun Hung Kai Properties,Known
+0423,KDDI Hong Kong Limited,N,N,N,Y,N,N,N,N,N,N,N,"Japan (Tokyo), KDDI",Known
+0429,Dime Global Limited,N,N,N,Y,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+0436,CITIC Telecom International CPC Limited,N,N,N,Y,Y,Y,N,N,N,N,N,"Hong Kong (CITIC Telecom International); parent CITIC, Beijing",Known
+0438,Deutsche Telekom Global Business Solutions China (HK) Limited,N,N,N,Y,Y,Y,N,N,N,N,N,"Germany (Bonn), Deutsche Telekom",Known
+0457,iBasis (Hong Kong) Limited,N,N,N,Y,Y,N,N,N,N,N,N,"USA (Burlington, MA), iBasis; owned by Tofane Global, France",Likely
+0460,IXTech Limited,N,N,N,Y,Y,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+0473,China Mobile Hong Kong Company Limited,N,N,N,Y,N,N,N,N,N,N,N,"Hong Kong; parent China Mobile, Beijing",Known
+0527,Newsbook Limited,N,N,N,N,Y,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+0532,ComNet Telecom International Limited,N,N,N,Y,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+0591,Web Host Limited,N,N,N,N,Y,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+0598,Diyixian.com Limited,N,N,N,Y,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+0602,Micro 2000 Limited,N,N,N,N,Y,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+0603,iAdvantage Limited,N,N,N,N,Y,N,N,N,N,N,N,Hong Kong (SUNeVision / Sun Hung Kai Properties),Known
+0624,AT&T Global Network Services Hong Kong Limited,N,N,N,Y,Y,Y,N,N,N,N,N,"USA (Dallas), AT&T",Known
+0625,Fame Union Limited,N,N,N,N,Y,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+0636,ET Net Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong (Hong Kong Economic Times group),Likely
+0648,China Mobile Hong Kong Company Limited,N,N,N,N,Y,Y,N,N,N,N,N,"Hong Kong; parent China Mobile, Beijing",Known
+0657,Hong Kong Telecommunications (HKT) Limited,N,N,N,N,Y,N,N,N,N,N,N,Hong Kong (HKT),Known
+0672,Uniconn Technologies Limited,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+0675,SpeedCast Limited,N,N,N,Y,Y,Y,N,N,N,N,N,"USA (Houston), Speedcast; originally Australia",Likely
+0682,China Tietong HongKong Telecom Company Limited,N,N,N,Y,Y,Y,N,N,N,N,N,"China (Beijing), China Mobile group",Known
+0686,Chubb Hong Kong Limited,N,N,N,N,N,N,N,N,Y,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+0712,CITIC Telecom International (Data) Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong (CITIC Telecom International),Known
+0719,Pacific One Net Limited,N,N,N,N,Y,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+0723,TOWNGAS TELECOMMUNICATIONS FIXED NETWORK LIMITED,N,N,N,N,Y,N,N,N,N,N,N,Hong Kong (Towngas),Known
+0744,Winstar Pacific Limited,N,N,N,Y,Y,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+0756,Equinix Hong Kong Limited,N,N,N,N,Y,Y,N,N,N,N,N,"USA (Redwood City), Equinix",Known
+0770,CTM (HK) Limited,N,N,N,Y,Y,Y,N,N,N,N,N,Macau (CTM),Known
+0777,THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED,N,N,N,N,Y,Y,N,N,N,N,N,"Hong Kong; group HSBC Holdings, UK (London)",Known
+0798,Yahoo! Hong Kong Limited,N,N,N,N,N,Y,N,N,N,N,N,"USA, Yahoo",Known
+0819,Frontier Network Technology Limited,N,N,N,Y,N,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+0839,VDC Powerbase Hong Kong Data Centers Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+0841,hkcolo Limited,N,N,N,Y,Y,N,N,N,N,N,N,Hong Kong,Likely
+0849,More Telecom International Limited,N,N,N,Y,N,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+0851,Cogent Communications Hong Kong Limited,N,N,N,Y,Y,Y,N,N,N,N,N,"USA (Washington DC), Cogent",Known
+0855,Outblaze Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong,Likely
+0858,PLDT (HK) Limited,N,N,N,Y,N,N,N,N,N,N,N,"Philippines (Manila), PLDT",Known
+0873,GlobalNet Communication Limited,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+0875,Hong Kong Telecommunications (HKT) Limited,N,N,N,Y,N,N,N,N,N,N,N,Hong Kong (HKT),Known
+0878,Belgacom International Carrier Services China Limited,N,N,N,Y,N,N,N,N,N,N,N,"Belgium (Brussels), BICS / Proximus",Known
+0892,Kyndryl Hong Kong Limited,N,N,N,N,N,Y,N,N,N,N,N,"USA (New York), Kyndryl",Known
+0894,China Enterprise Netcom Corporation Limited,N,N,N,Y,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+0901,PCCW Global Limited,N,N,N,Y,Y,Y,N,N,N,N,N,Hong Kong (PCCW / HKT),Known
+0910,IPGO.net Limited,N,N,N,Y,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+0920,HKBN JOS Limited,N,N,N,N,Y,N,N,N,N,N,N,Hong Kong (HKBN Group),Known
+0922,China Unicom (Hong Kong) Operations Limited,N,N,Y,Y,Y,N,N,N,N,N,N,"Hong Kong; parent China Unicom, Beijing",Known
+0930,Sky Leader Limited,N,N,N,Y,N,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+0938,Global Call Limited,N,N,N,Y,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+0951,CHINA-HONGKONG TELECOM LIMITED,N,N,Y,Y,N,N,N,N,N,N,N,Hong Kong,Likely
+0958,Bloomberg L.P.,N,N,N,N,N,Y,N,N,N,N,N,"USA (New York), Bloomberg",Known
+0960,Birdie Mobile Limited,N,N,N,Y,N,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+0966,Hong Kong Science and Tech. Parks Corp.,N,N,N,N,Y,N,N,N,N,N,N,Hong Kong,Known
+0989,ITO Express Limited,N,N,N,N,Y,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+0992,Digital Pacific Limited,N,N,N,Y,N,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1007,Shinetown Multimedia Services Limited,N,N,N,Y,N,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1015,CITIC Telecom International Limited,N,N,Y,Y,Y,Y,N,N,N,N,N,Hong Kong (CITIC Telecom International),Known
+1021,Towngas Telecommunications Company Limited,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong (Towngas),Known
+1022,GIN International Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1027,BDX DC Services (HK) Limited,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1029,Systech Telecom Limited,N,N,N,N,Y,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1034,Global Logistics System (HK) Co. Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1041,Lik On Security Limited,N,N,N,N,N,N,N,N,Y,N,N,Hong Kong,Likely
+1048,Hong Kong Telecommunications (HKT) Limited,N,N,N,Y,N,N,N,N,N,N,N,Hong Kong (HKT),Known
+1059,Telecommunications & Technology Asia Limited,N,N,N,Y,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1080,V-Connect Limited,N,N,N,N,N,N,N,Y,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1087,Layer One Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1088,Hutchison Telephone Company Limited,N,N,N,Y,N,N,N,N,N,N,N,Hong Kong (CK Hutchison),Known
+1091,POWERNETIX LIMITED,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1092,Anycall Telecom Network (HK) Company Limited,N,N,N,Y,N,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1103,HK Domain Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1104,Global E-Trading Services Limited,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1114,China Telecom Global Limited,N,N,Y,Y,Y,Y,N,N,N,N,N,"Hong Kong; parent China Telecom, Beijing",Known
+1117,Udomain Web Hosting Company Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong,Likely
+1122,"Uhuibao International Business Co., Limited",N,N,N,Y,N,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1138,Hong Kong Internet (Holding) Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1139,Level 3 Communications Hong Kong Limited,N,N,N,Y,Y,Y,N,N,N,Y,N,"USA (Monroe, Louisiana), Lumen",Known
+1147,SOUTH CHINA TELECOMMUNICATIONS (H.K.) LIMITED,N,N,Y,Y,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1152,Haitong International Information Systems Limited,N,N,N,N,Y,Y,N,N,N,N,N,"Hong Kong; parent in Shanghai, China",Likely
+1159,Mass Telecom Limited,N,N,N,Y,N,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1166,Lucky Tone Communications Limited,N,N,N,Y,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1169,Centrex Telecom Company Limited,N,N,N,Y,N,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1175,China Mobile Hong Kong Company Limited,N,N,N,Y,N,N,N,N,N,N,N,"Hong Kong; parent China Mobile, Beijing",Known
+1186,"DONGHWA TELECOM CO., LIMITED",N,N,N,N,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1187,HK Public Around Communicatory Limited,N,N,N,Y,N,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1192,Masergy Communications UK Limited,N,N,N,Y,N,N,N,N,N,N,N,"USA (Plano, Texas), Masergy / Comcast Business",Known
+1194,NTT Cloud Communications Hong Kong Limited,N,N,N,N,N,N,N,N,N,Y,N,"Japan (Tokyo), NTT",Known
+1201,ASIX Asia Satellite Internet Exchange Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1210,IMC NETWORKS LIMITED,N,N,Y,N,N,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1211,"DONGHWA TELECOM CO., LIMITED",N,N,N,Y,N,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1217,"THE JARDINE ENGINEERING CORPORATION, LIMITED",N,N,N,N,N,N,N,N,Y,N,N,Hong Kong (Jardine Matheson group),Known
+1218,Communilink Internet Limited,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1232,Y5Zone Limited,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong,Likely
+1237,Global Transit (Hong Kong) Limited,N,N,N,Y,N,Y,N,N,N,N,N,"Malaysia (Kuala Lumpur), Global Transit",Likely
+1244,Akamai International B.V.,N,N,N,N,N,Y,N,N,N,N,N,"USA (Cambridge, MA), Akamai; entity in Netherlands",Known
+1247,Eware Networks Limited,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1253,Connet Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1254,GTI (HK) LIMITED,N,N,Y,Y,N,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1268,ASC (HK) Limited,N,N,N,N,N,N,N,N,Y,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1280,GENERAL SECURITY (H.K.) LIMITED,N,N,N,N,N,N,N,N,Y,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1282,A1 Telecom Limited,N,N,N,Y,N,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1283,ABC Telecommunication Limited,N,N,N,Y,N,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1287,Dragon Power Telecom Limited,N,N,N,Y,N,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1322,HDC Data Centre Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1327,ARELION HONG KONG LIMITED,N,N,N,Y,N,N,N,N,N,N,N,"Sweden (Stockholm), Arelion",Known
+1332,Intersoft Web Services Limited,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1334,Reliance Communications (Hong Kong) Limited,N,N,N,Y,N,N,N,N,N,N,N,"India (Mumbai), Reliance Communications",Known
+1335,Layerstack Limited,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong,Likely
+1338,SunnyVision Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong,Likely
+1339,One Tone (Hong Kong) Limited,N,N,N,Y,N,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1346,Forewin Telecom Group Limited,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1356,01link Network Services Limited,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1357,LiveCom Limited,N,N,N,Y,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1362,Jetso Mobile Limited,N,N,N,Y,N,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1367,KanHan Technologies Limited,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong,Likely
+1369,Bloomberg Finance L.P.,N,N,N,N,N,Y,N,N,N,N,N,"USA (New York), Bloomberg",Known
+1370,Network Infinity Technologies Limited,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1371,Gigahost Limited,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1375,United Telecom Technologies Company Limited,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1377,Nethub Online Limited,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1379,I-Services Network Solution Limited,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1381,Virtual Switching Consultancy Limited,N,N,N,Y,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1382,M800 Limited,N,N,N,Y,N,Y,N,N,N,N,N,Hong Kong,Likely
+1385,Kitsoft Limited,N,N,N,Y,N,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1389,Bharti Airtel (Hong Kong) Limited,N,N,N,Y,N,Y,N,N,N,N,N,"India (New Delhi), Bharti Airtel",Known
+1394,MEGA VANTAGE INFORMATION TECHNOLOGY (HONG KONG) LIMITED,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1396,CONVERGE TELECOM LIMITED,N,N,N,Y,N,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1400,Sun Network (Hong Kong) Limited,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1405,Hong Kong Cyberport Management Company Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong,Known
+1410,852call Limited,N,N,N,Y,N,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1411,SalesCatalysts.com Limited,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1412,Acestar Telecoms Hong Kong Limited,N,N,N,Y,N,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1413,Dragon Telecom Global Co. Limited,N,N,N,Y,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1420,China Hong Kong International Communication Company Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1421,Colosite HK Limited,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1427,Cypress Telecom Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1429,GTT Communications Hong Kong Limited,N,N,N,Y,Y,Y,N,N,N,Y,N,"USA (McLean, Virginia), GTT",Known
+1434,TVB NEW MEDIA GROUP LIMITED,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong (TVB),Known
+1443,"Hurricane Electric (Hong Kong), Limited",N,N,N,N,N,Y,N,N,N,N,N,"USA (Fremont, CA), Hurricane Electric",Known
+1444,ASIATECH TELECOM LIMITED,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1445,Sun Mobile Limited,N,N,Y,N,N,N,N,N,N,N,N,Hong Kong,Likely
+1449,Meteors Information Systems Limited,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1450,Golden Sun Holdings International Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1454,Citifax Information Management Limited,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1456,Pacswitch Globe Telecom Limited,N,N,N,Y,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1457,Chuan Wei Telecom (Hong Kong) Limited,N,N,N,Y,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1459,Syniverse Technologies Asia Pacific Limited,N,N,N,Y,N,N,N,N,N,N,N,"USA (Tampa), Syniverse",Known
+1460,China Broadband Communications (Hong Kong) Company Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1462,ABC Computer Systems Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1467,263 Global Communications Limited,N,N,N,N,Y,Y,N,N,N,N,N,"China (Beijing), 263 Network Communications",Likely
+1469,Epsilon Telecommunications (HK) Limited,N,N,N,Y,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1471,Red-Asterisk Technology Limited,N,N,N,Y,N,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1472,Digicel Carrier Services (Pacific) Limited,N,N,N,Y,N,N,N,N,N,N,N,"Jamaica (Kingston), Digicel",Likely
+1473,Foresttek Networks Limited,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1475,Insutech Limited,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1480,A.Shan Telecom (H.K.) Limited,N,N,N,Y,N,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1481,Magitelecom Limited,N,N,N,Y,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1483,HKBN Enterprise Solutions eBusiness Limited,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong (HKBN Group),Known
+1488,XHT888 H.K. Co. Limited,N,N,N,Y,N,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1490,Nexusguard Limited,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1500,VNPT Global HK Limited,N,N,N,Y,N,Y,N,N,N,N,N,"Vietnam (Hanoi), VNPT",Known
+1512,VisionNet Communications Limited,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1513,Best Network Telecommunication Co. Limited,N,N,N,Y,N,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1517,Ce Dongli Technology (Hong Kong) Company Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1518,Asia Satellite Telecommunications Company Limited,N,N,N,N,Y,N,N,N,N,N,N,Hong Kong (AsiaSat),Known
+1523,43 Global Consultants Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1527,EXA Infrastructure Hong Kong Limited,N,N,N,N,Y,Y,N,N,N,N,N,"UK (London), EXA Infrastructure",Known
+1536,Advanced Solution Limited,N,N,N,Y,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1541,Simcentric Solutions Limited,N,N,N,N,Y,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1543,Website Solution Limited,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1544,Eranet International Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1546,Cenbong Int'l Holdings Limited,N,N,N,Y,N,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1547,Telenor Global Services Hong Kong Limited,N,N,N,Y,Y,Y,N,N,N,N,N,"Norway (Fornebu), Telenor",Known
+1550,Success Business Consultant Limited,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1552,Avelacom HK Limited,N,N,N,Y,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1554,Media Digital Technologies Corporation Limited,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1555,TI Sparkle Singapore Pte. Ltd.,N,N,N,N,N,Y,N,N,N,N,N,"Italy (Rome), Sparkle / TIM; entity in Singapore",Known
+1557,Coastnet Communication (HK) Limited,N,N,N,Y,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1565,DNA Asia Pacific Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1566,ICE PACIFIC LIMITED,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1568,1GLOBAL Operations (Hong Kong) Limited,N,N,Y,Y,N,N,N,N,N,N,N,"UK (London), 1GLOBAL (formerly Truphone)",Likely
+1577,Concord Information Technology International Limited,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1588,Nova Technology Development (Hong Kong) Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1593,Syniverse Technologies (China) Limited,N,N,N,N,N,Y,N,N,N,N,N,"USA (Tampa), Syniverse",Known
+1594,Gold Sunshine International Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1604,Telekomunikasi Indonesia International (HongKong) Limited,N,N,Y,Y,Y,Y,N,N,N,N,N,"Indonesia (Jakarta), Telkom Indonesia",Known
+1606,IFN.COM (HK) Limited,N,N,N,N,N,Y,N,N,N,Y,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1609,Future Power International Limited,N,N,Y,Y,N,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1611,Emma Global (Hong Kong) Limited,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1613,Onenet HK Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1614,Company TTK Asia Limited,N,N,N,N,Y,Y,N,N,N,N,N,"Russia (Moscow), TTK",Likely
+1617,IPTP Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1618,Telekom Malaysia (Hong Kong) Limited,N,N,N,N,Y,Y,N,N,N,Y,N,"Malaysia (Kuala Lumpur), Telekom Malaysia",Known
+1620,Shinetown Telecommunication Limited,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1624,Commerce One Limited,N,N,N,Y,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1625,FactSet Hong Kong Limited,N,N,N,N,N,Y,N,N,N,N,N,"USA (Norwalk, CT), FactSet",Known
+1627,Panasonic Avionics Corporation,N,N,N,N,N,N,N,N,N,N,Y,"USA (Irvine, CA); parent Panasonic, Japan",Known
+1629,Tilia Limited,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1631,OneAsia Network Limited,N,N,N,N,Y,Y,N,N,N,Y,N,Hong Kong,Likely
+1632,Transaction Network Services HK Pte Limited,N,N,N,N,N,Y,N,N,N,N,N,"USA (Reston, Virginia), TNS",Known
+1635,Cisco Services (Hong Kong) Limited,N,N,N,N,N,Y,N,N,N,Y,N,"USA (San Jose), Cisco",Known
+1637,HKCOLO.NET Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong,Likely
+1638,KS Link Telecommunication Limited,N,N,N,Y,N,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1642,CLUSTERTECH LIMITED,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong,Likely
+1646,Glory Technology (H.K) Group Limited,N,N,N,Y,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1650,HuiYinBi Telecom (Hong Kong) Limited,N,N,Y,Y,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1651,2012 Limited,N,N,N,N,Y,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1653,Tradelink Technology Development Company Limited,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong,Known
+1655,AMOEBA LIMITED,N,N,Y,N,N,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1661,i4HK Limited,N,N,N,N,Y,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1662,BDX Data Center (HK) Limited,N,N,N,N,Y,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1667,DYXnet Data Centre Services Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong (DYXnet),Likely
+1668,"HongKong AsiaComm Co., Limited",N,N,N,Y,N,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1670,P & R Consultancy Company Limited,N,N,N,Y,N,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1671,"China CTTIC HK Co., Limited",N,N,N,N,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1673,Colt Technology Services Limited,N,N,N,N,Y,Y,N,N,N,N,N,"UK (London), Colt",Known
+1675,Commercial Radio Productions Limited,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong,Known
+1679,Computerline (Hong Kong) Limited,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1680,Litegrid Networks Limited,N,N,N,N,Y,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1681,Interaptus Limited,N,N,N,N,Y,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1683,Marple Internet Centre Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1684,"Esun Technology International Co., Limited",N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1685,BBIX Hong Kong Pte. Limited,N,N,N,N,N,Y,N,N,N,N,N,"Japan (Tokyo), BBIX / SoftBank",Known
+1686,Efly Network Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1687,Multibyte Info Technology Limited,N,N,Y,Y,N,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1689,Oriental Telecom (Hong Kong) Limited,N,N,N,Y,N,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1690,NTC Asia Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1693,Linknet Communication International Limited,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1696,Megaport (Hong Kong) Limited,N,N,N,N,Y,Y,N,N,N,N,N,"Australia (Brisbane), Megaport",Known
+1700,ISL HK Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1702,"GUOLI HOLDINGS CO., LIMITED",N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1703,NIX GLOBAL COMMUNICATION LIMITED,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1705,GATEWAY TECHNOLOGY DEVELOPMENT CO LIMITED,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1708,GDS (Hong Kong) Limited,N,N,N,N,Y,N,N,N,N,N,N,"China (Shanghai), GDS",Known
+1709,Able Mobile Limited,N,N,N,Y,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1714,Changxin Group China Corporation Limited,N,N,N,Y,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1716,HK Langsen International Communication Limited,N,N,N,Y,N,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1720,e-Smart System Inc.,N,N,N,N,Y,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1721,Viking Telecom Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1722,Equinix (Hong Kong) Enterprises Limited,N,N,N,N,Y,Y,N,N,N,N,N,"USA (Redwood City), Equinix",Known
+1724,Worldcom Asia Limited,N,N,Y,Y,N,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1725,IIJ Global Solutions Hong Kong Limited,N,N,N,N,Y,N,N,N,N,N,N,"Japan (Tokyo), IIJ",Known
+1726,International Carrier Exchange Limited,N,N,N,Y,N,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1728,Cocoa Oriental Network Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1730,Open Text (Hong Kong) Limited,N,N,N,N,N,Y,N,N,N,N,N,"Canada (Waterloo, Ontario), OpenText",Known
+1732,Aofei Data International Company Limited,N,N,N,N,Y,Y,N,N,N,N,N,"China (Guangzhou), Aofei Data",Likely
+1733,"KT Hong Kong Telecommunications Co., Limited",N,N,N,N,N,Y,N,N,N,N,N,"South Korea, KT Corp",Known
+1736,Bit Exchange Systems Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1738,"GIMI Mobile Communications Co., Limited",N,N,N,Y,N,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1742,Telstra PBS Limited,N,N,N,N,Y,Y,N,N,N,N,N,"Australia (Melbourne), Telstra",Known
+1744,Network Joint (HK) Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1745,Skycall Telecom International Limited,N,N,N,Y,N,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1747,World Hub Communications Limited,N,N,N,Y,N,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1748,Ocean Telemedia Limited,N,N,N,Y,N,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1750,The Hong Kong Internet eXchange Limited,N,N,N,N,Y,Y,N,N,N,N,N,"Hong Kong (HKIX, linked to CUHK)",Known
+1751,Webbing Hong Kong Limited,N,N,Y,N,N,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1752,"Fnetlink Co., Limited",N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1754,LinkChina Telecom Global Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1755,GVM Limited,N,N,N,Y,N,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1757,"Century Snail Communication Technology (HK) Co., Limited",N,N,Y,Y,N,N,N,N,N,N,N,"China (Suzhou), Snail group",Likely
+1760,Zayo Group (HK) Limited,N,N,N,N,Y,Y,N,N,N,N,N,"USA (Boulder, Colorado), Zayo",Known
+1761,Cloud Valley Technology Limited,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1762,Acme Communications Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1763,HK Kwaifong Group Limited,N,N,N,Y,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1764,Cloud Net Technologies Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1765,RETN (Hong Kong) Limited,N,N,N,N,Y,Y,N,N,N,N,N,"UK (London), RETN",Known
+1766,"HK TESUCH GLOBAL CO., LIMITED",N,N,N,N,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1767,"HK Kudunet Technology Co., Limited",N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1768,"Huawei Services (Hong Kong) Co., Limited",N,Y,Y,Y,Y,Y,N,N,N,Y,N,"China (Shenzhen), Huawei",Known
+1769,CN Care Cyber Cloud Limited,N,N,N,N,Y,Y,N,N,N,Y,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1770,SG.GS (HK) Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1771,Shun Tak - China Travel Ship Management Limited,N,N,N,N,Y,N,N,N,N,N,N,Hong Kong (Shun Tak),Known
+1772,Sicitel Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1773,Asiamind Netcom Group Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1774,Cloud Intelligence Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1775,Pico Global (Hong Kong) Limited,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1776,"Hongkong Joy Telecom Co., Limited",N,N,Y,Y,N,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1777,"Pacific Light Data Communication Co., Limited",N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1778,Joint Universities Computer Centre Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong,Known
+1780,Baiwu (HK) International Limited,N,N,N,Y,Y,Y,N,N,N,N,N,"China (Beijing), Baiwu",Likely
+1781,Talk2all Telecom (HK) Limited,N,N,N,Y,N,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1782,Purple Communications Global Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1785,"Earth Network Technology (Hong Kong) Co., Limited",N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1787,Datamax OSI Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1788,"LCX International Technology Co., Limited",N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1789,Softnet Telecommunications (HK) Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1790,Comba Telecom Limited,N,N,N,N,Y,Y,N,N,N,N,N,"Hong Kong listed; main operations Guangzhou, China",Likely
+1791,Winbright Corporation Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1792,"Sincitel International Communications Co., Limited",N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1793,Ancent Group Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1795,Global Engine Limited,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1796,BAOTEL Limited,N,N,N,Y,N,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1797,Upnet Technology International Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1798,Yottabyte Communications Group Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1799,Quickcom Telecom Limited,N,N,N,Y,N,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1800,DCConnect Global Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1801,"Montnets International (HK) Co., Limited",N,N,N,N,N,Y,N,N,N,N,N,"China (Shenzhen), Montnets",Likely
+1802,"China Skyline Telecom Co., Limited",N,N,N,Y,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1803,Intelligent Connection Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1804,Continuous Technologies International Limited,N,N,N,Y,N,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1805,SNG WAN LIMITED,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1806,XLC Global Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1807,NEW POS NETWORK (HK) LIMITED,N,N,Y,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1808,CityBus (China) Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong,Known
+1809,Neway Electronics Technology Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1810,RISE ASIA TECHNOLOGY LIMITED,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1811,"Hong Kong Cloudbase Technology Co., Limited ",N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1812,Harvest International Development (HK) Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1814,DREAM POWER TECHNOLOGY LIMITED,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1815,HONG KONG BRIDGE INFO-TECH LIMITED,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1816,Union Fu Wah Digital Technology Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1817,FIRST APP HOLDINGS LIMITED,N,N,N,N,N,N,N,N,N,Y,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1818,MINTEL HOLDING LIMITED,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1819,"Hong Kong Shanghang Information Technology Co., Limited",N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1820,WIDEACCEL COMMUNICATION CO LIMITED,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1821,Hong Kong Haves-Cinda Holding Co. Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1822,ACG Corporation Limited,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1823,GOIP AULA LIMITED,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1824,"Hong Kong Communications International Co., Limited",N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1825,IS Services Limited,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1826,SINOCOMM LIMITED,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1827,"THHT(HK) NETWORKS TECHNOLOGY CO., LIMITED",N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1828,K.C. Communication (Hong Kong) Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1829,HK LANGSEN INTERNATIONAL COMMUNICATION GROUP LIMITED,N,N,N,Y,N,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1830,"TWOWIN CO., LIMITED",N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1831,Hong Kong BeeCloud System Technology Services Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1832,Efun Network Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1833,"Humeng Technology International Co., Limited",N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1834,FEIXIN TECH GLOBAL SERVICE LIMITED,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1835,HONG KONG HOU LUEN INFORMATION TECHNOLOGY LIMITED,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1836,CENTERLINK GLOBAL TELECOM LIMITED,N,N,N,N,Y,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1837,Cloud Interconnect Global Network Technology Limited,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1838,EASY LINK ICT SOLUTION LIMITED,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1839,PACNET INTERNET (HK) LIMITED,N,N,N,N,N,Y,N,N,N,N,N,"Australia (Melbourne), Telstra (ex Pacnet)",Likely
+1841,BLUEFANCY TECHNOLOGY SERVICES LIMITED,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1842,LightWAN Corporation Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1843,PaaSoo Technology Limited,N,N,N,Y,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1844,WIFIPACK LIMITED,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1845,ACCA SYSTEM LIMITED,N,N,N,N,N,N,N,N,Y,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1847,Zenlayer Networks (Hong Kong) Limited,N,N,N,N,Y,Y,N,N,N,N,N,"USA (Los Angeles area), Zenlayer",Likely
+1849,SPEED UNION LIMITED,N,N,N,Y,Y,Y,N,N,N,Y,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1850,"Montnets International Communications (HK) Co., Limited",N,N,Y,N,N,Y,N,N,N,N,N,"China (Shenzhen), Montnets",Likely
+1851,PREHENDO LIMITED,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1852,UNITED NETWORK SOLUTIONS LIMITED,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1853,GIGANTIC DATA SERVICES LIMITED,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1855,HONGKONG UNITED TECHNOLOGY HOLDINGS LIMITED,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1856,Sinoking Cloud Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1857,Digital HK Kin Chuen Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1858,Dataport Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1859,CHILIAN NETWORK TECHNOLOGIES (HONGKONG) LIMITED,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1860,UNIVERSE ACTION LIMITED,N,N,N,Y,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1861,SI HAI ZHONG HONG TECHNOLOGY GROUP LIMITED,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1862,EZEGG Consultancy Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1863,WebVivo Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1864,Eons Data Communications Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1865,"Global-Ict Hongkong Co., Limited",N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1866,CHINA IPX Communication Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1867,Algoblu (Hong Kong) Holdings Limited,N,N,N,N,Y,Y,N,N,N,N,N,"China (Beijing), Algoblu",Likely
+1868,"CHINA INTERNATIONAL CRANCLOUD CO., LIMITED",N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1869,SHING YUEN CHONG TECHNOLOGY LIMITED,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1870,Nova Global ICT (Hong Kong) Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1872,Qi Zheng Telecommunication Technology (Hong Kong) Company Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1873,BGP Network Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1874,The Moon Creation Limited,N,N,N,Y,N,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1875,Flexenet (Hong Kong) Limited,N,N,N,N,N,N,N,N,N,Y,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1876,SUNDII TECHNOLOGY LIMITED,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1877,WIFI EGG COMPANY LIMITED,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1878,"YouXun Industry (HongKong) Co., Limited",N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1879,JUNCOM SMARTECH GLOBAL SERVICE LIMITED,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1880,"Tianxin Group Co., Limited",N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1881,HONGKONG XIYE LIMITED,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1883,"Anyun Internet Technology (Hong Kong) Co., Limited",N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1884,"AGILENAAS GLOBAL SERVICE CO., LIMITED",N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1885,LET'S SMILE LIMITED,N,N,N,Y,N,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1886,Sunnysite Innovation Technology Hong Kong Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1887,7road International HK Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1888,DOTCOM LIMITED,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1889,"Huamai ComTech Co., Limited",N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1891,"SilverTech Telecom Co., Limited",N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1892,"URBAN CONNECTED (HK) CO., LIMITED",N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1893,BGREAT COMMUNICATION NETWORK HONG KONG LIMITED,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1894,Innovic Technology Corporation Limited,N,N,N,N,Y,Y,N,N,Y,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1895,ENJOYVC CLOUD GROUP LIMITED,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1896,"Sparkoo Technologies Hong Kong Co., Limited",N,N,N,N,Y,Y,N,N,N,Y,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1897,Byteplus (Hongkong) Limited,N,N,N,N,Y,Y,N,N,N,N,N,"Singapore; parent ByteDance, China",Likely
+1899,EASYCALL TELECOM (HK) LIMITED,N,N,N,Y,N,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1900,PacketFabric (Hong Kong) Limited,N,N,N,N,Y,Y,N,N,N,N,N,"USA (Los Angeles area), PacketFabric",Likely
+1901,"Baobo Technology Co., Limited",N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1902,OGCLOUD LIMITED,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1903,"ARSIN TECHNOLOGY CO., LIMITED",N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1904,PEAKSWAY NETWORK TECHNOLOGY LIMITED,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1905,"Southern Telecom (Hong Kong) Co., Limited",N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1906,CTCSCI TECH LIMITED,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1908,STARCLOUD INFORMATION LIMITED,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1909,"ZT INFORMATION NETWORK CO., LIMITED",N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1910,CTG Server Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1911,"Core Winner Co., Limited",N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1912,KF GLOBAL LIMITED,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1913,Sinnet International Limited,N,N,N,N,Y,Y,N,N,N,N,N,"China (Beijing), Sinnet",Likely
+1914,EMPIRE UNIVERSAL BUSINESS TECHNOLOGY SOLUTIONS LIMITED,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1915,Syscloud Hong Kong Network Technology Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1916,Atto Digital Information Technology (Hong Kong) Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1917,"Hardcore Communication Co., Limited",N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1918,"ZHAO CHENG TECHNOLOGY (HK) CO., LIMITED",N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1919,Finovy Cloud HK Limited,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1920,Octopus Web Services Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1921,YunJie Communication HK Company Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1923,AISANIE DATA SERVICES LIMITED,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1924,"Alllan Communications Co., Limited",N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1925,852 Network Limited,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1926,E-LINK CLOUD LIMITED,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1927,Global Interconnection Holdings Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1928,Yovole Data Group (HONG KONG) LIMITED,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1929,ULTRA DATA TECHNOLOGY LIMITED,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1931,Transland Information Group Limited,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1932,HKT Network (HK) Limited,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong (HKT),Known
+1934,HKT Global (HK) Limited,N,N,N,Y,N,Y,N,N,N,N,N,Hong Kong (HKT),Known
+1935,Infra-Six Limited,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1937,IXTECH NETWORK LIMITED,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1939,"Coninet Communication Service Co., Limited",N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1940,ANF International Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1941,EDP I (HK) Limited,N,N,N,N,Y,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1942,WingSing Telecom Limited,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1943,"ZMF Tech Co., Limited",N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1944,SPEEDER TECHNOLOGY LIMITED,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1946,"CouldLink Innovations Co., Limited",N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1947,CM Telecom Hong Kong Limited,N,N,N,Y,N,Y,N,N,N,N,N,"Netherlands (Breda), CM.com",Likely
+1948,Tianfeng (Hong Kong) Communications Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1949,SINNET CLOUD HK LIMITED,N,N,N,N,Y,Y,N,N,N,N,N,"China (Beijing), Sinnet",Likely
+1950,WEBSITE TECHNOLOGY LIMITED,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1951,MIND CLOUD (HK) LIMITED,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1952,"UNIVERSES INTERCONNECTION TECHNOLOGY CO., LIMITED",N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1953,REASONABLE SOFTWARE HOUSE LIMITED,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1954,Telsms Limited,N,N,N,Y,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1955,HUAWEI INTERNATIONAL CO. LIMITED,N,N,N,N,N,Y,N,N,N,N,N,"China (Shenzhen), Huawei",Known
+1956,Sinch Hong Kong Limited,N,N,N,N,N,Y,N,N,N,N,N,"Sweden (Stockholm), Sinch",Known
+1957,TOWNLINK LIMITED,N,Y,N,Y,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1958,Octopus SmartNet Global Company Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1959,Expereo Hong Kong Limited,N,N,N,N,Y,Y,N,N,N,N,N,"Netherlands (Amsterdam), Expereo",Known
+1960,Fornix (Hong Kong) Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1961,YINNOX HK LIMITED,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1962,HONGKONG HUNTLY INTERNATIONAL HOLDINGS LIMITED,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1963,Oceanblue Network Technology Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1964,SYNERGY INFORMATION GROUP LIMITED,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1965,Running River Network Technology Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1966,UITDATA TECHNOLOGIES LIMITED,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1967,VITOVIO LIMITED,N,N,N,Y,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1968,SANGFOR TECHNOLOGIES (HONG KONG) LIMITED,N,N,N,N,N,Y,N,N,N,N,N,"China (Shenzhen), Sangfor",Known
+1969,"RaisEther (HK) Technology Co., Limited",N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1970,TGT Cloud Services (Hong Kong) Holding Company Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1971,B&N ENTERPRISE LIMITED,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1972,Hong Kong LianShan Technology Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1973,FLARESPEED HK CO. LIMITED,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1974,"One Link (HK) Technology Co., Limited",N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1975,SUOZHOU LIMITED,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1976,Linkcloud Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1977,"Hong Kong 7x Networks Information Technology Co., Limited",N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1978,"Lenovo Connect (HK) Co., Limited",N,N,N,N,Y,Y,N,N,N,N,N,"China (Beijing), Lenovo Group",Likely
+1979,"DHNET Hong Kong Co., Limited",N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1980,HONG KONG FTL CLOUD INFORMATION TECHNOLOGY LIMITED,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1981,CSL Mobile Limited,N,N,Y,N,N,N,N,N,N,N,N,Hong Kong (HKT),Known
+1982,CLOUD NET OPERATIONS LIMITED,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1983,"Symphony Flash-Link (Hong Kong) Telecommunications Co., Limited",N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1984,CloudRadium (HK) Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1985,BOCNET (HONG KONG) COMMUNICATIONS LIMITED,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1986,INFOTEL HK LIMITED,N,N,N,Y,N,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1987,T-Link Telecom Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1988,"Hong Kong Huaxin Communication Technology Co., Limited",N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1989,"Hongkong Fast Speed Technology Co., Limited",N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1990,SpiderNet IT Service Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1991,"WeiTaiGe Technology Co., Limited",N,N,Y,N,N,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1992,Connex Technology Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1993,"DZ INTERNATIONAL TELECOMMUNICATION CO., LIMITED",N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1994,Andcloud Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1995,VNET Future Technology Limited,N,N,N,N,Y,Y,N,N,N,N,N,"China (Beijing), VNET",Likely
+1996,AK Interconnection (Hong Kong) Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1997,SMARTEL INFORMATION TECHNOLOGY LIMITED,N,N,N,N,N,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+1998,Verizon Hong Kong Limited,Y,N,N,Y,Y,Y,N,N,N,N,N,"USA (New York), Verizon",Known
+1999,"Edgenext Technology Co., Limited",N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+2000,AnGo International Telecom Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+2001,Hongkong Huachen Communication Technology Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+2002,FASTNET DATA SERVICES COMPANY LIMITED,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+2003,"Hong Kong MTC Technology Co., Limited",N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+2004,Rockit Service Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+2005,Digiseres (Hong Kong) Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+2006,ezlinkx Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+2007,A3 Global Company Limited,N,N,N,Y,N,N,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+2008,MetaVerse Atlas Technology Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+2009,EKT V (HK) Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+2010,PROJECTPRO (HONG KONG) LIMITED,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+2011,MaxEffs Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+2012,Cherry Nova Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+2013,Macro Kiosk (HK) Limited,N,N,N,N,N,Y,N,N,N,N,N,"Malaysia (Kuala Lumpur), Macro Kiosk",Likely
+2014,BORI TELECOM LIMITED,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+2015,GD Services (HK) Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+2016,BEECLOUD ICT LIMITED,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+2017,Juvlink Global Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+2018,Kaopu Cloud HK Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+2019,YangChen WeiYe (HK) Company Limited,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+2020,"Smart Network Cloud Technology CO., Limited",N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
+2021,NetsUnion Technology Limited,N,N,N,N,Y,Y,N,N,N,N,N,"China (Beijing), NetsUnion Clearing",Likely
+2022,HONGKONG CENTURY-ONE LIMITED,N,N,N,N,Y,Y,N,N,N,N,N,Hong Kong registered entity; parent HQ not verified,Unverified
